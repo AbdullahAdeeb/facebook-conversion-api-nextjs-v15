@@ -1,5 +1,5 @@
 {
-  "name": "@rivercode/facebook-conversion-api-nextjs",
+  "name": "@AbdullahAdeeb/facebook-conversion-api-nextjs",
   "version": "4.3.2",
   "description": "Facebook Conversion API for Next.js",
   "main": "dist/index.js",
